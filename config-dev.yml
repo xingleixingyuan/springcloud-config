@@ -1,5 +1,2 @@
-aa: bb
-version: 2
 config:
-  info:
-    version: 2
+  info: "version=2"
